@@ -1,0 +1,8 @@
+﻿ .xAxis path{
+display:none;
+}
+.line{
+    fill:none;
+    stroke:blue;
+    stroke-width:2;
+ }
